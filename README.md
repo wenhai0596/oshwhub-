@@ -7,6 +7,6 @@
    https://passport.szlcsc.com/login
 3. 签到  
    https://oshwhub.com/api/user/sign_in  
-3.1 3天礼
-    https://oshwhub.com/api/user/sign_in/getTreeDayGift  
-7.2 7天礼  
+3.1 3天礼  
+https://oshwhub.com/api/user/sign_in/getTreeDayGift  
+3.2  7天礼    
