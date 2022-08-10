@@ -9,4 +9,5 @@
    https://oshwhub.com/api/user/sign_in  
 3.1 3天礼  
 https://oshwhub.com/api/user/sign_in/getTreeDayGift  
-3.2  7天礼    
+3.2  7天礼   
+https://oshwhub.com/api/user/sign_in/getSevenDayGift
