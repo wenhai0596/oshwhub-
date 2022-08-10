@@ -1,6 +1,6 @@
 # oshwhub 自动登陆签到
 
-1. 取 lt  
+1. 取登陆用的lt值    
    https://passport.szlcsc.com/login?service=https://oshwhub.com/login?f=oshwhub  
     值在页面里
 2. 登陆  
