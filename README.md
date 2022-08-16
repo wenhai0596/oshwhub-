@@ -12,7 +12,7 @@
    
 3. 用cookie签到  
    POST https://oshwhub.com/api/user/sign_in  
-   返回的字段里带签到天数 weekCount
+   返回的字段里带签到天数 weekCount  
 3.1 用cookie3领天礼  
    GET https://oshwhub.com/api/user/sign_in/getTreeDayGift  
 3.2  用cookie领7天礼   
