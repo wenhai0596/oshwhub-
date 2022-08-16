@@ -8,7 +8,8 @@
    登陆成功跳转   
    GET https://oshwhub.com/login?f=oshwhub&ticket=*********-cas.test.com
    带cookie带跳转   
-   GET https://oshwhub.com/login?f=oshwhub
+   GET https://oshwhub.com/login?f=oshwhub  
+   如果返回的跳转地址为 https://oshwhub.com/login 则登陆成功，保留cookie，用于签到  
    
 3. 用cookie签到  
    POST https://oshwhub.com/api/user/sign_in  
